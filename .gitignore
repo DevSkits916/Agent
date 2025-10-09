@@ -1,0 +1,11 @@
+node_modules
+.dist
+!.github
+.vscode
+.DS_Store
+dist
+coverage
+.vercel
+.render
+.cache
+*.log
