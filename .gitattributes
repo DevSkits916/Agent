@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.svg text
+*.png -text
+*.jpg -text
+*.jpeg -text
+*.gif -text
+*.ico -text
+*.mp4 -text
+*.mov -text
+*.zip -text
+*.pdf -text
